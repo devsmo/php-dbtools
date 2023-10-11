@@ -1,9 +1,9 @@
 {
-    "name": "dmbookpro/php-dbtools",
+    "name": "devsmo/php-dbtools",
     "type": "library",
     "description": "Collection of classes for working with a database on PHP projects",
     "keywords": [],
-    "homepage": "https://github.com/dmbookpro/php-dbtools",
+    "homepage": "https://github.com/devsmo/php-dbtools",
     "license": "MIT",
     "require": {
         "php": ">=5.6.0"
